@@ -1,0 +1,126 @@
+{
+  "nodes": [
+    {
+      "state_str": "ba5df10a608f20ecc051941c90eb2ca3",
+      "activity": ".NexusLauncherActivity"
+    },
+    {
+      "state_str": "f38bf726ffde414c7933726c10d2d242",
+      "activity": ".FilteredDeckOptions"
+    },
+    {
+      "state_str": "f69cd239eb36c31b3f9632f2aeb9b507",
+      "activity": ".StudyOptionsActivity"
+    },
+    {
+      "state_str": "a37e9243c4fd778dd91bcf9d7cb250e5",
+      "activity": ".MyAccount"
+    },
+    {
+      "state_str": "af7eab3ebdfaa1f0222bf0e1c67631ff",
+      "activity": "com.android.documentsui.picker.PickActivity"
+    },
+    {
+      "state_str": "342c88fa25b34840830dd14ad218161a",
+      "activity": ".NoteEditor"
+    },
+    {
+      "state_str": "a88674ce1dfd51678dcb7f6d1db35b72",
+      "activity": ".Statistics"
+    },
+    {
+      "state_str": "bd6ac891732ef1520cf9fdbaf5f00af4",
+      "activity": ".CardTemplatePreviewer"
+    },
+    {
+      "state_str": "ea2782be10ae33ae22da1ef2a4b3969b",
+      "activity": ".multimediacard.activity.MultimediaEditFieldActivity"
+    },
+    {
+      "state_str": "ff86843d3c1a4b2307075e7829a60a88",
+      "activity": ".CardTemplateEditor"
+    },
+    {
+      "state_str": "009a9c1b5303eb22e2d4ba55e5f2833b",
+      "activity": ".Reviewer"
+    },
+    {
+      "state_str": "997a87fa8c37feb0601de4e5e1c1975d",
+      "activity": ".CardTemplateBrowserAppearanceEditor"
+    }
+  ],
+  "edges": [
+    {
+      "from": "f38bf726ffde414c7933726c10d2d242",
+      "to": "f69cd239eb36c31b3f9632f2aeb9b507"
+    },
+    {
+      "from": "342c88fa25b34840830dd14ad218161a",
+      "to": "bd6ac891732ef1520cf9fdbaf5f00af4"
+    },
+    {
+      "from": "342c88fa25b34840830dd14ad218161a",
+      "to": "ff86843d3c1a4b2307075e7829a60a88"
+    },
+    {
+      "from": "ea2782be10ae33ae22da1ef2a4b3969b",
+      "to": "342c88fa25b34840830dd14ad218161a"
+    },
+    {
+      "from": "6b93b6972c425c8be7bcfd31b7f85d1b",
+      "to": "a88674ce1dfd51678dcb7f6d1db35b72"
+    },
+    {
+      "from": "71770e247ae50b645682c35ed00aee5b",
+      "to": "6b93b6972c425c8be7bcfd31b7f85d1b"
+    },
+    {
+      "from": "f69cd239eb36c31b3f9632f2aeb9b507",
+      "to": "71770e247ae50b645682c35ed00aee5b"
+    },
+    {
+      "from": "d27ec7946bd8c64d70686443e095c615",
+      "to": "009a9c1b5303eb22e2d4ba55e5f2833b"
+    },
+    {
+      "from": "f69cd239eb36c31b3f9632f2aeb9b507",
+      "to": "d27ec7946bd8c64d70686443e095c615"
+    },
+    {
+      "from": "b7356c9af0592acc99aa61a99944b25f",
+      "to": "997a87fa8c37feb0601de4e5e1c1975d"
+    },
+    {
+      "from": "60252d517b30a65f666d8b3708a1c996",
+      "to": "b7356c9af0592acc99aa61a99944b25f"
+    },
+    {
+      "from": "49670cf8da769d0d2da217b1357d9525",
+      "to": "60252d517b30a65f666d8b3708a1c996"
+    },
+    {
+      "from": "49670cf8da769d0d2da217b1357d9525",
+      "to": "342c88fa25b34840830dd14ad218161a"
+    },
+    {
+      "from": "57ff09991ca30765f1a2ae32345d04eb",
+      "to": "af7eab3ebdfaa1f0222bf0e1c67631ff"
+    },
+    {
+      "from": "71770e247ae50b645682c35ed00aee5b",
+      "to": "57ff09991ca30765f1a2ae32345d04eb"
+    },
+    {
+      "from": "3ea7989065d21b677b6d826a3f6e13c9",
+      "to": "a37e9243c4fd778dd91bcf9d7cb250e5"
+    },
+    {
+      "from": "3ea7989065d21b677b6d826a3f6e13c9",
+      "to": "71770e247ae50b645682c35ed00aee5b"
+    },
+    {
+      "from": "ba5df10a608f20ecc051941c90eb2ca3",
+      "to": "71770e247ae50b645682c35ed00aee5b"
+    }
+  ]
+}

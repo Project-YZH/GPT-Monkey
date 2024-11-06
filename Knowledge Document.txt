@@ -1,0 +1,8 @@
+-s <seed> Specifies a seed value to ensure reproducible randomness in the testing.
+--pct-touch <percent> Sets the percentage of touch events, such as taps and long presses, focusing on direct screen interactions that involve single points of contact.
+--pct-motion <percent> Defines the percentage of motion events, like swipes or drags, which track the movement of touch across the screen, providing a different test dynamic from static touch events by simulating continuous finger paths.
+--pct-trackball <percent> Sets the percentage of trackball movements, like scrolling or clicking, offering a unique input method separate from touchscreen interactions, useful for devices equipped with physical trackballs or simulated controls.
+--pct-nav <percent> Determines the percentage of basic navigation events, including directional pad movements and focusing on simple navigation.
+--pct-majornav <percent> Specifies the percentage of major navigation events, such as selections and menu interactions, which involve more significant navigation choices compared to basic navigation, adding complexity in user interaction.
+--pct-syskeys <percent> Configures the percentage of system key presses, like Home, Back, and Volume keys, involving system control keys that affect the overall operation of the device.
+--pct-anyevent <percent> Provides a flexible percentage for any type of event, creating a diverse and randomized testing environment that combines all other types of interactions, ensuring a comprehensive stress testing across all functions.
